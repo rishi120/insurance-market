@@ -1,0 +1,24 @@
+/* primary colors */
+
+$purple: #8f00f2;
+$disabled: #989898;
+$button-color: #ff4a01;
+//font family
+$open-sans: "Open Sans",
+sans-serif;
+// media query
+// $resize: "screen and (max-width: 377px)";
+$mq5b: "screen and (max-width: 565px)";
+$mq7b: "screen and (max-width: 767px)";
+$mq9b: "screen and (max-width: 991px)";
+$mq12b: "screen and (max-width: 1199px)";
+$mq5a: "screen and (min-width: 566px)";
+$mq7a: "screen and (min-width: 768px)";
+$mq9a: "screen and (min-width: 992px)";
+$mq12a: "screen and (min-width: 1200px)";
+$landscape: "screen and (max-width: 767px) and (orientation: landscape)";
+$iphonex: "screen and (min-width : 375px) and (max-width : 812px) and (orientation : landscape)";
+$ipad_landscape: "screen and (min-width: 768px) and (max-width: 1024px) and (orientation : landscape)";
+$ipadpro: "screen and (min-width: 1024px) and (max-height: 1366px) and (-webkit-min-device-pixel-ratio: 1.5)";
+$ipadpro_landscape: "screen and (min-width: 1024px) and (max-height: 1366px) and (orientation: landscape) and (-webkit-min-device-pixel-ratio: 1.5)";
+//variables ends here
